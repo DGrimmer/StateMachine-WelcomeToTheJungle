@@ -1,0 +1,7 @@
+﻿  GameManager.cpp
+\\hsnas6\studenthome\2015\a15davgr\documents\visual studio 2015\projects\statemachinenew\welcometothejungle\helpfunk.h(53): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+\\hsnas6\studenthome\2015\a15davgr\documents\visual studio 2015\projects\statemachinenew\welcometothejungle\helpfunk.h(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\hsnas6\studenthome\2015\a15davgr\documents\visual studio 2015\projects\statemachinenew\welcometothejungle\gamemanager.cpp(96): warning C4018: '<': signed/unsigned mismatch
+\\hsnas6\studenthome\2015\a15davgr\documents\visual studio 2015\projects\statemachinenew\welcometothejungle\gamemanager.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  WelcomeToTheJungle.vcxproj -> \\hsnas6\studenthome\2015\a15davgr\Documents\Visual Studio 2015\Projects\StateMachineNew\Debug\WelcomeToTheJungle.exe
+  WelcomeToTheJungle.vcxproj -> \\hsnas6\studenthome\2015\a15davgr\Documents\Visual Studio 2015\Projects\StateMachineNew\Debug\WelcomeToTheJungle.pdb (Full PDB)
